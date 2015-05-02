@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="information">More information</string>
+    <string name="url">http://www.moma.org</string>
+    <string name="alert_message">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson. Click below to learn more!
+        </string>
+    <string name="yes_dialog">Visit MOMA</string>
+    <string name="no_dialog">Not Now</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ffa13341</color>
+    <color name="black">#ff000000</color>
+    <color name="lightGreen">#643dcd60</color>
+    <color name="pink">#ffffbef4</color>
+    <color name="orange">#ffffa45f</color>
+    <color name="violet">#ff7c12a8</color>
+    <color name="gray">#fff0edf6</color>
+    <color name="blue">#ff92e6ff</color>
+
+    <color name="anti_red">#ff42a17f</color>
+    <color name="anti_pink">#ff5fb5d9</color>
+    <color name="anti_orange">#ff5036ff</color>
+    <color name="anti_violet">#ff4fa823</color>
+</resources>

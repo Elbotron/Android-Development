@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="actionBarStyle" >@style/MyActionBar</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MyActionBar"
+        parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="background">@color/lightGreen</item>
+        <item name="displayOptions">showTitle</item>
+
+    </style>
+
+</resources>
